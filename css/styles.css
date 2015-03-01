@@ -1,0 +1,7 @@
+body { background: url(../img/tempbg.png) top left repeat fixed;}
+.glblCont {
+	width: 100%;
+	display: block;
+}
+.title {height: 1100px;}
+.portTabs { background: white;}
