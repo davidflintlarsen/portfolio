@@ -1,4 +1,4 @@
-body { background: url(../img/tempbg.png) top left repeat fixed;}
+body { background: url(../img/tempbg.png) top left repeat fixed; font-family: 'Oxygen', sans-serif;}
 .glblCont {
 	width: 100%;
 	display: block;
