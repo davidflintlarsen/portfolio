@@ -5,7 +5,7 @@ body { background: url(../img/tempbg.png) top left repeat fixed; font-family: 'O
 }
 .title {height: 1100px; position: relative;}
 .title .logo {
-	width: 480px;
+	max-width: 480px;
 	position: relative;
 	top: 40%;
 	margin: 0 auto;
